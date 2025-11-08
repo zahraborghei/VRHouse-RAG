@@ -32,7 +32,7 @@ class IngestRequest(BaseModel):
                 "metadata": {
                     "topic": "machine_learning",
                     "date": "2025-11-03",
-                    "author": "John Doe"
+                    # "author": "John Doe"
                 }
             }
         }

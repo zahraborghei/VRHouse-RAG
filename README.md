@@ -133,7 +133,7 @@ Detailed documentation is available in the `docs/` folder:
   "text": "Python is a high-level programming language created by Guido van Rossum in 1991.",
   "metadata": {
     "topic": "programming",
-    "author": "John Doe",
+    // "author": "John Doe",
     "date": "2024-01-15"
   }
 }
